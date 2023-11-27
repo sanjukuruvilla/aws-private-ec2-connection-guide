@@ -1,6 +1,6 @@
 A step by step on how to connect to private EC2 instance in AWS
 
-#prerequisite:
+# prerequisite:
 
 We should have one public instance and another private instance ready in hand.
 
